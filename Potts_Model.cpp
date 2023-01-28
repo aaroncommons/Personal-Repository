@@ -1,3 +1,6 @@
+// C++ program that use a Markov Chain method based on the Metropolis algorithm to generate importance-sampling Monte Carlo 
+// random configurations of the Potts spin field on a 20 × 20 grid. For values of β ∈ [0.5, 1.5] and estimate the average magnetisation for q = 3 and 5. 
+
 #include <iostream>
 #include <cmath>
 using std::cout;
