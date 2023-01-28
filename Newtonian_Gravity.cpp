@@ -1,3 +1,7 @@
+### A system of four planets, moving in a two-dimensional plane with masses, initial observed positions and velocities. 
+### They move according to Newton’s inverse-square law of gravity. 
+### Following code finds positions of planets using a leap-frog symplectic integrator.
+
 #include <iostream>
 #include <vector>
 #include <cmath>
