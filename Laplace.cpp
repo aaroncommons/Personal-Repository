@@ -1,3 +1,5 @@
+### Finds solutions to the Laplace equation given Dirichlet and Neumann boundary conditions
+
 #include <iostream>
 #include <vector>
 #include <cmath>
