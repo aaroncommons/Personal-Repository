@@ -1,4 +1,4 @@
-### Runge Kutta method for higher order ODEs 
+// Runge Kutta method for third order ODEs 
 
 #include <iostream>
 #include <vector>
