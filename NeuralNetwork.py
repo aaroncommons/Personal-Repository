@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jan 18 12:41:27 2023
-
+Python program that builds neural networks to learn the time evolution of density matrix given a dataset of density matrix time series
 @author: aaron
 """
 
