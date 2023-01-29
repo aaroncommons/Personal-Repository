@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Oct  4 19:45:36 2021
+ 
+Python program which analyses the Irish Covid-19 data of the number of daily cases reported 
+since the onset of the pandemic by performing a least square fit of the exponential rise and fall of each 
+of the four “waves”. The decay constant of each wave is determined. 
 
 @author: aaron
 """
