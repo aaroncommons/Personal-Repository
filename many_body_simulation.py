@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Nov  3 11:40:03 2022
-
+Python program which simulates the time evolution for a many body quantum mechanical system of four sites and two electrons, based on the Hubbard model
 @author: aaron
 """
 
