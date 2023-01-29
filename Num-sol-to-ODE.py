@@ -4,6 +4,9 @@ Created on Thu Oct 14 19:10:56 2021
 
 @author: aaron
 """
+# Python program using three different numerical schemes; the simple Euler method, the improved Euler method, and the fourth order Runge-Kutta method,
+# to analyse the numerical solution of an ODE.
+
 
 import numpy as np
 import matplotlib.pylab as plt
