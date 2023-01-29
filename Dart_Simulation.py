@@ -4,6 +4,11 @@ Created on Mon Oct 25 09:54:39 2021
 
 @author: aaron
 """
+# Computer experiment using Python will be performed which is equivalent to throwing N darts at a board divided into L equally sized regions & 
+# determining the probability that a region has a particular number of darts. 
+# The aim is to compare the probability distribution of this experiment to the Poisson distribution and to observe the conditions which satisfy the requirements 
+# for a Poisson distribution. 
+
 import numpy as np
 import matplotlib.pylab as plt
 import numpy.random as ran
